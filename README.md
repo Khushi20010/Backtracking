@@ -11,7 +11,7 @@ This repository contains implementations of classic **backtracking problems** in
 ## 🛠 Skills Practiced
 
 - Problem-solving and logical thinking  
-- Recursive programming  
+- Recursive programming      
 - Backtracking techniques  
 
 ## 🔧 Tech Stack
@@ -22,6 +22,14 @@ This repository contains implementations of classic **backtracking problems** in
 ## 📁 Repository Structure
 
 ## 🚀 How to Run
+
+// input: 4
+// output:
+// .Q..
+// ...Q
+// Q...
+// ..Q.
+
 
 1. Clone the repository:
 
